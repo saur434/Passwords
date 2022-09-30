@@ -226,14 +226,6 @@
       "Password":"12345678",
 },
 {
-
-      "id":17,
-
-      "difficulty":"moderate",
-      "chractersUsed":"numbers",
-      "Password":"9421249051",
-      },
-
       "id":26,
       "difficulty":"easy",
       "chractersUsed":"numbers",
@@ -347,6 +339,18 @@
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Password@123",
+
+}
+{
+      "id":47,
+
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"saurabh@1234",
+
+      "difficulty":"easy",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"pass@9890",
 
 }
 
